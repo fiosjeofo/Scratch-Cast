@@ -1,0 +1,25 @@
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Silly rabbit, Trix are for kids!
+#Login login credentials are ONLY used for updating cloud vars, New scratchers can stream too!
+#You should use an alt while using this.
+#
+#These parameters will update the video in real time
+#``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+#Skip libary downloads? (y = yes, n = no) put to "y" if you are having issues.
+n
+
+#Your USERNAME goes under this line.
+Anonymous_cat1_ext
+
+#Your PASSWORD goes under this line.
+9511195111
+
+#Put the ID of the project you want to stream to under this line.
+782357079
+
+#The number below the line is the contrast modifier. (default = 1)
+1
+
+#Everything after this comment will be sent as captions (there is a 100 char limit due to the base10 encoding). Please keep the captions on one line.
+made by Anonymous_cat1
