@@ -10,13 +10,12 @@
 n
 
 #Your USERNAME goes under this line.
-Anonymous_cat1_ext
+(user here)
 
 #Your PASSWORD goes under this line.
-9511195111
-
+(password here)
 #Put the ID of the project you want to stream to under this line.
-782357079
+(id here)
 
 #The number below the line is the contrast modifier. (default = 1)
 1
