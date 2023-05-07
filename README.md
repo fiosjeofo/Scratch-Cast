@@ -2,7 +2,7 @@ Scratch Cast (v0.01)
 
 Scratch Cast is a proof of concpet for a screencasting solution for Scratch by Anonymous_cat1 and co worked by Triducal.
 
-Scratch Cast is able to: Broadcast your screen at a res of 56x42 (alot i know) in greyscale with a colordepth of like... 2??? I dunno at ~fps (Scratch limitation)
+Scratch Cast is able to: Broadcast your screen at a res of 56x42 (alot i know) in greyscale with a colordepth of like... 2??? I dunno at ~2fps (Scratch limitation)
 Scratch Cast even supports broadcasting your mouse's position data dynamically to Scratch and Captions! (check config file for captions) 
 
 Scratch Cast uses Pillow (PIL), Scratch Attach, pyautogui and Image libaries
