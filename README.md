@@ -18,7 +18,7 @@ PLEASE do not show inapropiate content, Scratch is for ages 8 and up.
 
 This software is tested, but not bug free. please report any bugs you encounter while using this.
 
-if you need help, please contact Box Cat#9737 discord or @Anonymous_cat1 on Scratch or Github.
+if you need help, please contact anonymous_cat1 on discord or @Anonymous_cat1 on Scratch or Github.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Quickstart guide:
