@@ -10,10 +10,10 @@
 n
 
 #Your USERNAME goes under this line.
-(user here)
+jfslflfdnsofa
 
 #Your PASSWORD goes under this line.
-(password here)
+7HFStNt4BpmJ_mq
 #Put the ID of the project you want to stream to under this line.
 (id here)
 
